@@ -1,1 +1,1 @@
-# JavaScript
+# JavaScript for Test Automation
